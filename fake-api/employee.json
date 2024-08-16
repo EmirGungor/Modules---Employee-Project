@@ -1,0 +1,35 @@
+{
+  "employees": [
+    {
+      "name": "Emir Güngör",
+      "department": "IT",
+      "salary": 120000,
+      "id": "1"
+    },
+    {
+        "id": "2",
+        "name": "Eren Güngör",
+        "department": "IT",
+        "salary": 65000
+      },
+    {
+      "id": "3",
+      "name": "Demir Güngör",
+      "department": "IT",
+      "salary": 50000
+    },
+    {
+      "id": "4",
+      "name": "Defne Güngör",
+      "department": "Sales",
+      "salary": 50000
+    },
+    {
+      "id": "5",
+      "name": "Duygu Saadet Güngör",
+      "department": "Nutrition and Dietetics",
+      "salary": 75000
+    }
+    
+  ]
+}
